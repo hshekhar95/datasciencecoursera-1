@@ -1,2 +1,3 @@
 title is himanshu shekhar
-## this is markdown file
+knitr::opts_chunk$set(echo = TRUE)
+
